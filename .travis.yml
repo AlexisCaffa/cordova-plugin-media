@@ -37,7 +37,7 @@ language: node_js
   - env: PLATFORM=android-4.4
     os: linux
     language: android
-    jdk: oraclejdk8
+    jdk: openjdk8
     android:
       components:
       - tools
@@ -45,7 +45,7 @@ language: node_js
   - env: PLATFORM=android-5.1
     os: linux
     language: android
-    jdk: oraclejdk8
+    jdk: openjdk8
     android:
       components:
       - tools
@@ -53,7 +53,7 @@ language: node_js
   - env: PLATFORM=android-6.0
     os: linux
     language: android
-    jdk: oraclejdk8
+    jdk: openjdk8
     android:
       components:
       - tools
@@ -61,7 +61,7 @@ language: node_js
   - env: PLATFORM=android-7.0
     os: linux
     language: android
-    jdk: oraclejdk8
+    jdk: openjdk8
     android:
       components:
       - tools
@@ -69,7 +69,7 @@ language: node_js
   - env: PLATFORM=android-8.0
     os: linux
     language: android
-    jdk: oraclejdk8
+    jdk: openjdk8
     android:
       components:
       - tools
