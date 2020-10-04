@@ -17,6 +17,15 @@
 #         under the License.
 -->
 
+# IMPORTANT
+This plugin is already obsolete. They say that android 4.X already incorporates codecs for .aac+  
+Besides, it has 32-bit libraries that I never recompiled.
+
+# IMPORTANTE
+ 
+Este plugin ya está obsoleto. Dicen que android 4.X ya incorpora codecs para .aac+  
+Aparte tiene librerías en 32 bits que nunca recompilé. 
+
 # cordova-plugin-mediaac
 
 
